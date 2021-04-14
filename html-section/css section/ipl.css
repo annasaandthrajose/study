@@ -1,0 +1,30 @@
+header{
+    color: darkblue;
+    background-color: darkgoldenrod;
+    width:70% ;
+    height: 50px;
+}
+div{
+    background-color: darkred;
+    width: 50%;
+}
+#mi{
+    background-color: indianred;
+    border: solid ;
+    border-bottom:10px solid rgb(151, 71, 255);
+    border-top: 10px dotted green;
+    border-left: 10px dashed yellow;
+    border-right: 10px double orchid;
+    
+}
+#pi{
+    color: limegreen;
+    text-align: center;
+     text-decoration:underline  black;
+}
+.ki{
+    color: mediumturquoise;
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
