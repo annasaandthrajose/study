@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+}
+
+#top{
+    position: absolute;
+    left: 20%;
+    bottom: 2%;
+    background-color: darkmagenta;
+    border-style: solid;
+    border-color: blue;
+    border-width: 2%;
+    width: 10%;
+    /*margin-left: 20%;
+    padding-left: 5%;*/
+
+}
+#bottom{
+    background-color: crimson;
+    border-style: dotted ;
+    border-color: darkolivegreen;
+    border-width: 2%;
+    width: 10%;
+    margin-left: 20%;
+    padding-left: 5%;
+    margin-top: 30%;
+
+}
